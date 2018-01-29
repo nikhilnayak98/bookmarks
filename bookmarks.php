@@ -143,9 +143,6 @@ function showBookmarks()
     if (!$fp)
         print "No bookmarks set.";
     else {
-        /* print "<table><tr><th width=\"45%\">Description</th>
-<th width=\"55%\">URL</th></tr>"; */
-
         print "<div class=\"container\"><table class=\"bordered\">
     <thead>
         <tr>
