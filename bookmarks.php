@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <link type="text/css" rel="stylesheet" href="materialize/css/materialize.min.css"  media="screen,projection"/>
 </head>
-<body style="background-color: grey;color: white;">
+<body style="background-color: #333;color: white;">
 <?php
 error_reporting(E_ALL ^ E_NOTICE);
 //include the function to clean data
